@@ -6,13 +6,7 @@
 <h3> 2020 has been a year of change for everyone.</h3> For me, it has been a very important year because I have decided to change my life.<br> I quit my teaching job and started studying programming and I´ve discovered a world that I didn´t think I was going to like so much!<br>
 I've been programming for a short time, so I'm still a junior, but something very characteristic of me is that I never stop studying, in this case: Front-end development.<br> I´m always doing or looking for courses, bootcamps, personal projects..., because I believe that this job will help me find a place where I feel comfortable, excited and that provides me with a nice future.<p><br>
   
-- 📚 always learning.
-- 🏹 always fighting.
-- ✨ always creating. 
-- 🧼 soap maker
-- 🐱‍👤 mother of cats 😼.
-
-
+- 📚 always learning. - 🏹 always fighting. - ✨ always creating. - 🧼 soap maker - 🐱‍👤 mother of cats 😼.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +22,7 @@ I've been programming for a short time, so I'm still a junior, but something ver
 
 ### - GitHub Stats...
 
-<a href="https://github.com/Mdelaosaiz">
+<a align="center" href="https://github.com/Mdelaosaiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdelaosaiz&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdelaosaiz&theme=buefy&layout=compact" />
 </a>
