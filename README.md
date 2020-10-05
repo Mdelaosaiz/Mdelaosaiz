@@ -31,10 +31,11 @@ I've been programming for a short time, so I'm still a junior, but something ver
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Let´s talk! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/marian-de-la-osa/)
-   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mdelaosaiz)
-   [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MariandelaOsa)
+   [![Linkedin](https://icons.iconarchive.com/icons/danleech/simple/24/linkedin-icon.png) LinkedIn](https://www.linkedin.com/in/marian-de-la-osa/)
+   [![Twitter](https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Twitter-icon.png) Twitter](https://twitter.com/MariandelaOsa)
+   [![Gmail](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/24/Gmail-icon.png) Gmail](mailto:mariandelaosa@gmail.com)
    
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
